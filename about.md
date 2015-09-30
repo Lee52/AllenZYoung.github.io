@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-This is [Allen.Z.Young](http://facebook.com/allzyoung), a college student who lives in Beijing(Not THU or PKU) at the moment. And, of course, a boy of 19 who wants to make a bright future. After a romantic blunder, I still wish to meet a lovely and chaste girl.
+This is [Allen.Z.Young](http://facebook.com/allzyoung), a college student who lives in Beijing(Not THU or PKU). And, of course, a boy of 19 who wants to make a bright future. After a romantic blunder, I still wish to meet a lovely and chaste girl.
 
 I'm studying for a Bachelor of Engineering now, and my major is computer software engineering.
 
