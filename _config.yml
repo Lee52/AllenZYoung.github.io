@@ -5,19 +5,19 @@ gems:
   - jemoji
   
 # Site settings
-title: "DarKnight"
+title: "AZY`s Static Blog"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   A simple blog website based on GH server and Jekyll. 
 
 email: allenzyoung97@gmail.com
 #blog logo
-logo: "/assets/images/as1.jpg"
+logo: "/assets/images/1443848642-62.jpg"
 # blog cover
 cover: "/assets/images/1352347554640.jpg"
 
-name: 'AZY`s Static Blog'
+name: ' Allen Z Young '
 author: 'Allen Z Young'
-author_image: "/assets/images/baracktocat.jpg"
+author_image: "/assets/images/BarackOctSmall.jpg"
 
 paginate:	5
 
