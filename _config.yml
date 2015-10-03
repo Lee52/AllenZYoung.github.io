@@ -5,7 +5,7 @@ gems:
   - jemoji
   
 # Site settings
-title: "Ó³ÀèÌ¶"
+title: "AllZone"
 description: > # this means to ignore newlines until "email:"
    A simple blog website based on GH server and Jekyll. 
 
