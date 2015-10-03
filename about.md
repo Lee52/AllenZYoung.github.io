@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
-This is [Allen.Z.Young](http://facebook.com/allzyoung), a college student who lives in Beijing(Not THU or PKU). And, of course, a boy of 19 who wants to make a bright future. After a romantic blunder, I still wish to meet a lovely and chaste girl.
+A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
+[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
 
-I'm studying for a Bachelor of Engineering now, and my major is computer software engineering.
+You can **download** the theme here:
+[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
 
-I like coding, especially in the aspects of data structure and algorithm, also pay attention to android developing and HTML. You know, programming can give me an aesthetic feeling of architecture and logic.
+You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-I always focus on Applied Psychology and Economics, as well as Chinese History and Literature. I have maintained a good faith and enthusiasm on science and technology, looking forward them to change the whole world again. The philosophers I admire most are Descartes and Spinoza. Throughout the world, my favorite company is Google, as for Chinese companies, I appreciate Tencent a lot.
+You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can read my code on [GitHub](http://github.com/allenzyoung).
-
-Have a nice day~ ♥
+You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
