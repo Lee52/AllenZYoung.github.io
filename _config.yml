@@ -5,7 +5,7 @@ gems:
   - jemoji
   
 # Site settings
-title: "The Static Blog of A.Z.Y"
+title: "Ó³ÀèÌ¶"
 description: > # this means to ignore newlines until "email:"
    A simple blog website based on GH server and Jekyll. 
 
@@ -21,7 +21,8 @@ author_image: "/assets/images/BarackOctSmall.jpg"
 
 paginate:	5
 
-url: "http://allenzyoung.github.io" # the base hostname & protocol for your site
+url: "http://allenzyoung.github.io" 
+# the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 #twitter_handle: '@dirkfabisch'
@@ -39,8 +40,8 @@ social:
  #   share_link: "&amp;url="
 
   - icon:	facebook
-    url:	https://facebook.com/allzyoung
-    desc: Connect with me facebook
+    url:	https://www.facebook.com/allzyoung
+    desc: Connect with me on facebook
     share_url: https://www.facebook.com/sharer.php
     share_title: ?t=
     share_link: "&amp;u="
