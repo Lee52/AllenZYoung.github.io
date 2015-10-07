@@ -1,17 +1,18 @@
 # Site settings
 description: A simple blog based on GH server and Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://allenzyoung.github.io" # the base hostname & protocol for your site 
+url: "http://allenzyoung.github.io" 
+# the base hostname & protocol for your site 
 
 # User settings
 username: Allen Z Young
 user_description: A learner, a coder, a reader, an idealist.
 user_title: 
 email: allenzyoungazy@gmail.com
-twitter_username: 
+facebook_username: allzyoung
 github_username:  allenzyoung
-gplus_username: allenzyoung97@gmail.com
-disqus_username: azyoung
+gplus_username: 
+disqus_username: allzyoung
 
 # Build settings
 markdown: kramdown
