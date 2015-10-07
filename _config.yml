@@ -1,61 +1,42 @@
-# Build settings
-markdown: redcarpet
-highlighter: pygments
-gems:
-  - jemoji
-  
 # Site settings
-title: "AllZone"
-description: > # this means to ignore newlines until "email:"
-   A simple blog website based on GH server and Jekyll. 
+description: A blog about lorem ipsum dolor sit amet
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://localhost:3000" # the base hostname & protocol for your site 
 
-email: allenzyoungazy@gmail.com
-#blog logo
-logo: "/assets/images/1443848642-62.jpg"
-# blog cover
-cover: "/assets/images/DK.jpg"
+# User settings
+username: Lorem Ipsum
+user_description: Anon Developer at Lorem Ipsum Dolor
+user_title: Anon Developer
+email: anon@anon.com
+twitter_username: lorem_ipsum
+github_username:  lorem_ipsum
+gplus_username:  lorem_ipsum
+disqus_username: lorem_ipsum
 
-name: ' Allen Z Young '
-author: 'Allen Z Young'
-author_image: "/assets/images/BarackOctSmall.jpg"
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: /:title/
 
-paginate:	5
 
-url: "http://allenzyoung.github.io" 
-# the base hostname & protocol for your site
-baseurl: ""
-#used to display twitter cards
-#twitter_handle: '@dirkfabisch'
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
 
-#fill in disqus shortname to use disqus
-disqus: azyoung
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: Series
+    url: /series
+  - title: Tags
+    url: /tags
+  - title: About Me
+    url: /about
 
-# social icons and sharing options
-social:
- # - icon:	twitter
- #   url:	https://twitter.com/dirkfabisch
- #   desc: Follow me on twitter
- #   share_url: http://twitter.com/share
- #   share_title: ?text=
- #   share_link: "&amp;url="
-
-  - icon:	facebook
-    url:	https://www.facebook.com/allzyoung
-    desc: Connect with me on facebook
-    share_url: https://www.facebook.com/sharer.php
-    share_title: ?t=
-    share_link: "&amp;u="
-
-  - icon:	github
-    url:	https://github.com/allenzyoung
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
-
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
