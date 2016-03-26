@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 一叶落知天下秋
+title: Codeforces Edu Round 10
 date: 2016-03-26 10:34:52
 categories: 随笔杂谈
 image: /assets/article_images/2015-07-19-读万历十五年/gugong1.JPG
