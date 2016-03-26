@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Codeforces Edu Round 10
-date: 2016-03-26 10:34:52
+date: 2016-03-26 03:34:52
 categories: 随笔杂谈
-image: /assets/article_images/2015-07-19-读万历十五年/gugong1.JPG
+image: /assets/article_images/2016-03-26-Codeforces Edu Round 10/gugong1.JPG
 tags: 历史
 ---
 
